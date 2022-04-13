@@ -1,0 +1,10 @@
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\calculator\calculator\bin\Debug\calculator.exe.config
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\calculator\calculator\bin\Debug\calculator.exe
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\calculator\calculator\bin\Debug\calculator.pdb
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\calculator\calculator\obj\Debug\calculator.Form1.resources
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\calculator\calculator\obj\Debug\calculator.exe
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\calculator\calculator\obj\Debug\calculator.pdb

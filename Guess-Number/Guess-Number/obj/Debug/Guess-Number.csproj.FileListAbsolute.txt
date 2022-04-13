@@ -1,0 +1,10 @@
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\Guess-Number\Guess-Number\bin\Debug\Guess-Number.exe.config
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\Guess-Number\Guess-Number\bin\Debug\Guess-Number.exe
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\Guess-Number\Guess-Number\bin\Debug\Guess-Number.pdb
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\Guess-Number\Guess-Number\obj\Debug\Guess-Number.csprojResolveAssemblyReference.cache
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\Guess-Number\Guess-Number\obj\Debug\Guess_Number.Form1.resources
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\Guess-Number\Guess-Number\obj\Debug\Guess_Number.Properties.Resources.resources
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\Guess-Number\Guess-Number\obj\Debug\Guess-Number.csproj.GenerateResource.Cache
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\Guess-Number\Guess-Number\obj\Debug\Guess-Number.csproj.CoreCompileInputs.cache
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\Guess-Number\Guess-Number\obj\Debug\Guess-Number.exe
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010122\Guess-Number\Guess-Number\obj\Debug\Guess-Number.pdb
